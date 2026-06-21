@@ -5,7 +5,7 @@
 🌠 'portfolio-draft' — Work-in-progress personal site
 📓 Learning Journal - logging everything I’m discovering (mistakes included) (•𐃷•)
 ✨ Fun Fact - Octopuses have three hearts — and when they swim, one of them actually stops beating.
-So basically, even they get overwhelmed sometimes. 🐙💙
+So basically, even they get overwhelmed sometimes..... 🐙💙
 
 
 # 💻 Tech Stack:
